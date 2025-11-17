@@ -1,0 +1,4 @@
+# change string to uppercase
+
+message="i am learning python"
+print(message.upper())
